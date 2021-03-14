@@ -54,4 +54,8 @@ div {
   font-family:Georgia, 'Times New Roman', Times, serif;  
 }
 
+.navbar > li {
+  font-family:Georgia, 'Times New Roman', Times, serif;    
+}
+
 </style>

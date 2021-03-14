@@ -1,7 +1,7 @@
 <template>
 <div>
     <h1>Line Chart</h1>
-    <chart style="background-color: white"></chart>
+    <chart style="background-color: white; margin: 2%;"></chart>
 </div>
 </template>
 
@@ -22,6 +22,5 @@ export default {
 
 
 <style>
-
 
 </style>
