@@ -1,4 +1,6 @@
-# bt3103-week-4
+# Ah Hock Zichar
+
+Vue JS application that helps a restaurant manage its food orders.
 
 ## Project setup
 ```
